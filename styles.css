@@ -540,7 +540,7 @@ nav {
   transform: translate(-50%, -50%);
   width: 100px; 
   height: 58px; 
-  background-image: url('../images/youtube-1837872_640.png'); /* Replace with your play icon image */
+  background-image: url('./images/youtube-1837872_640.png'); /* Replace with your play icon image */
   background-size: cover;
   cursor: pointer;
   /* font-size: 2rem; */
@@ -797,7 +797,7 @@ nav {
 
 /* second swiper sec */
 #icon-sec {
-  background-image: linear-gradient(to right, rgba(20, 20, 20, 0.8), #181818cc), url('../images/meeting-5395615_1280.jpg');
+  background-image: linear-gradient(to right, rgba(20, 20, 20, 0.8), #181818cc), url('./images/meeting-5395615_1280.jpg');
   background-position: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1103,7 +1103,7 @@ nav {
 
 /* about page */
 #icon-sec2 {
-  background-image: linear-gradient(to right, rgba(20, 20, 20, 0.8), #181818cc), url('../images/meeting-5395615_1280.jpg');
+  background-image: linear-gradient(to right, rgba(20, 20, 20, 0.8), #181818cc), url('./images/meeting-5395615_1280.jpg');
   background-position: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1143,7 +1143,7 @@ nav {
 
 /* plans page */
 #plan-pg {
-  background-image: linear-gradient(to right, rgba(20, 20, 20, 0.8), rgba(24, 24, 24, 0.8)), url('../images/intro-video.jpg');
+  background-image: linear-gradient(to right, rgba(20, 20, 20, 0.8), rgba(24, 24, 24, 0.8)), url('./images/intro-video.jpg');
   background-position: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1234,7 +1234,7 @@ nav {
 
 /* faq page */
 #iconn {
-  background-image: linear-gradient(to right, rgba(20, 20, 20, 0.8), rgba(24, 24, 24, 0.8)), url('../images/pexels-alphatradezone-5831254.jpg');
+  background-image: linear-gradient(to right, rgba(20, 20, 20, 0.8), rgba(24, 24, 24, 0.8)), url('./images/pexels-alphatradezone-5831254.jpg');
   background-position: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1345,7 +1345,7 @@ nav {
 
 /* terms page */
 #terms {
-  background-image: linear-gradient(to right, rgba(20, 20, 20, 0.8), rgba(24, 24, 24, 0.8)), url('../images/meeting-5395615_1280.jpg');
+  background-image: linear-gradient(to right, rgba(20, 20, 20, 0.8), rgba(24, 24, 24, 0.8)), url('./images/meeting-5395615_1280.jpg');
   background-position: fixed;
   background-size: cover;
   min-height: 65vh;
