@@ -377,6 +377,9 @@ nav {
   margin-top: 1rem;
   margin-bottom: 1.5rem;
 }
+.solu h2 {
+  color: var(--color-first);
+}
 .solu p {
   margin-top: .5rem;
 }
