@@ -2107,7 +2107,9 @@ nav {
     padding: 1rem 1rem;
   }
 
-  
+  .swipe {
+    padding-top: 8rem;
+  }
 
   /* about page */
   .abt2 h1 {
@@ -2225,5 +2227,9 @@ nav {
   }
    .swipe-cont2 p {
     font-size: 15px;
+  }
+  .swipe {
+    padding-top: 7rem;
+
   }
 }
