@@ -2237,4 +2237,7 @@ nav {
   .swipe {
     padding-top: 6rem;
   }
+  .abt-second p {
+    margin: 8px auto;
+  }
 }
