@@ -184,7 +184,7 @@ nav {
   display: flex;
   align-items: center;
   /* gap: 2.8rem; */
-  /* z-index: 20000; */
+  z-index: 2000;
 }
 
 .nav-menu a {
@@ -2207,38 +2207,23 @@ nav {
 }
 
 @media screen and (max-width: 599px) {
-  .rocket {
-    display: none;
-  }
-  .front-pg {
+ .front-pg {
     display: block;
+  }
+  .front-pg2 {
+    width: 100%;
   }
   .swipe-cont h1 {
     font-size: 20px;
-    line-height: 15px;
-
+    line-height: 1px;
   }
-  .swipe-cont p, .swipe-cont2 p {
+  .swipe-cont h1 span {
+    line-height: 1;
+  }
+  .rocket {
+    display: none;
+  }
+   .swipe-cont2 p {
     font-size: 15px;
-    margin: 0%;
- }
-  /* .rocket2 .imgg-container {
-    width: 50%;
-    height: 55%;
-    padding-bottom: 0rem;
-  }
-  #rotating {
-    width: 50%;
-    height: 75%;
-  }
-  .front-pg2 {
-    width: 80%;
-  }
-  .rocket2 h2 {
-    font-size: 1.5rem;
-  } */
-  
-  .cont-icon {
-    display: block;
   }
 }
