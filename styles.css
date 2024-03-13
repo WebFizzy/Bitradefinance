@@ -2217,10 +2217,10 @@ nav {
   }
   .swipe-cont h1 {
     font-size: 22px;
-    line-height: 1px;
+    line-height: .5px;
   }
   .swipe-cont h1 span {
-    line-height: 1;
+    line-height: 0.8;
   }
   .rocket {
     display: none;
