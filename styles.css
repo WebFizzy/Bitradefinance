@@ -2209,14 +2209,15 @@ nav {
 }
 
 @media screen and (max-width: 599px) {
- .front-pg {
+   /* header */
+  .front-pg {
     display: block;
   }
   .front-pg2 {
     width: 100%;
   }
   .swipe-cont h1 {
-    font-size: 23px;
+    font-size: 22px;
     line-height: 1px;
   }
   .swipe-cont h1 span {
@@ -2225,11 +2226,16 @@ nav {
   .rocket {
     display: none;
   }
-   .swipe-cont2 p {
+  .solu h1 {
+    line-height: 28px;
+  }
+  .swipe-cont2 {
+    margin-bottom: 2rem;
+  }
+  .swipe-cont2 p {
     font-size: 15px;
   }
   .swipe {
-    padding-top: 7rem;
-
+    padding-top: 6rem;
   }
 }
