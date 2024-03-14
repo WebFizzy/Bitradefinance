@@ -1150,7 +1150,7 @@ nav {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  min-height: 50vh;
+  min-height: 65vh;
   margin-top: 3.6rem;
   padding-top: 1rem;
 }
@@ -1241,7 +1241,7 @@ nav {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  min-height: 50vh;
+  min-height: 65vh;
   margin-top: 3.6rem;
   padding-top: 1rem;
 }
@@ -1684,10 +1684,6 @@ nav {
   }
   .video-sec {
     width: 100%;
-  }
-  .video {
-    /* width: 100%; */
-    /* margin-right: 1rem; */
   }
   .video-sec {
     width: 100%;
