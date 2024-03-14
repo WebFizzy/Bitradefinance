@@ -1667,7 +1667,8 @@ nav {
   .service {
     width: 100%;
     text-align: left;
-    padding: 1rem 1rem;
+    margin-left: 0%;
+    margin-right: 0%;
   }
   .service h4 {
     margin: 10x auto;
@@ -2107,10 +2108,6 @@ nav {
     background: var(--color-primary);
     color: var(--color-gray-200);
     padding: 1rem 1rem;
-  }
-
-  .swipe {
-    padding-top: 8rem;
   }
 
   /* about page */
